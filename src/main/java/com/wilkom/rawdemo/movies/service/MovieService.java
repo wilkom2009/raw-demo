@@ -67,7 +67,7 @@ public class MovieService {
      *
      * List is sorted By Studio first, and by title second
      *
-     * @return A SORTED list of all movies
+     * @return A SORTED list of all movies 
      */
     public List<Movie> getAllMovies() {
         // CODE4:Return a custom SORTED list of all movies
